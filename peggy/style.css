@@ -8,7 +8,7 @@ body {
   background: #493284;
   background-image: url("https://i.ibb.co/zV14ndV/Kylee-Wallpaper30.png");
   /* fallback */
-  background-image: url("https://i.ibb.co/JvHf9Sf/Kylee-Wallpaper30-100.png"), linear-gradient(#cbe543, #4e75e0);
+  background-image: url("https://i.ibb.co/JvHf9Sf/Kylee-Wallpaper30-100.png"), linear-gradient(#cbe543, #4e75e0); 
   background-repeat: repeat-y repeat-x;
   background-position: center;
   background-attachment: fixed;
